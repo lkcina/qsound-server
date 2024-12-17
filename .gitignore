@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Qsound/.vs/Qsound
+/Qsound/qsound.client/obj/Debug
+/Qsound/Qsound.Server/bin/Debug/net9.0
+/Qsound/Qsound.Server/obj
+/Qsound/.vs/ProjectEvaluation
